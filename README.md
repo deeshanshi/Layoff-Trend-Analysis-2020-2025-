@@ -1,6 +1,6 @@
 # 📉 Layoff Trends in the Tech Industry (2020–2025)
 
-This project analyzes global tech industry layoffs between 2023 and 2025 using data from [layoffs.fyi](https://layoffs.fyi/). Through exploratory data analysis (EDA), we uncover patterns in layoffs by industry, geography, company stage, and more.  
+This project analyzes global tech industry layoffs between 2023 and 2025 using data from [layoffs.fyi](https://layoffs.fyi/). Through exploratory data analysis (EDA), I uncover patterns in layoffs by industry, geography, company stage, and more.  
 
 ---
 
